@@ -7,10 +7,15 @@ A new Flutter Task.
 This project is a starting point for a Flutter application.
 
 ## Features:
-● List of products for sale
+
+● List of products for sale.
+
 ● Below the search bar there are images of products with horizontal scroll.
-● Search feature that searches based on name fields
-● Sort feature based on name and price
+
+● Search feature that searches based on name fields.
+
+● Sort feature based on name and price.
+
 ● A chat UI which posts dummy messages 
 
 ## Data source:
