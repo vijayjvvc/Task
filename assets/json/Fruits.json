@@ -1,0 +1,262 @@
+[
+  {
+    "Seller": "Abi Fruits",
+    "Product": "Apple",
+    "Variety": "Kashmir",
+    "Price": 132,
+    "AvgWeight": 150,
+    "PerBox": 10,
+    "Boxes": 100,
+    "Delivery": "10 Days"
+  },
+  {
+    "Seller": "Akash Commodities",
+    "Product": "Watermelon",
+    "Variety": "Kashmir",
+    "Price": 171,
+    "AvgWeight": 1000,
+    "PerBox": 20,
+    "Boxes": 200,
+    "Delivery": "5 Days"
+  },
+  {
+    "Seller": "Varun Traders",
+    "Product": "Orange",
+    "Variety": "Ooty",
+    "Price": 106,
+    "AvgWeight": 250,
+    "PerBox": 50,
+    "Boxes": 200,
+    "Delivery": "1 Week"
+  },
+  {
+    "Seller": "A Trader",
+    "Product": "Pear",
+    "Variety": "Ooty",
+    "Price": 81,
+    "AvgWeight": 100,
+    "PerBox": 20,
+    "Boxes": 50,
+    "Delivery": "2 Week"
+  },
+  {
+    "Seller": "B Trader",
+    "Product": "Cherry",
+    "Variety": "Ooty",
+    "Price": 89,
+    "AvgWeight": 10,
+    "PerBox": 30,
+    "Boxes": 80,
+    "Delivery": "1 Mon"
+  },
+  {
+    "Seller": "Abi Fruits",
+    "Product": "Strawberry",
+    "Variety": "Ratnagiri",
+    "Price": 156,
+    "AvgWeight": 20,
+    "PerBox": 35,
+    "Boxes": 70,
+    "Delivery": "10 Days"
+  },
+  {
+    "Seller": "Akash Commodities",
+    "Product": "Grape",
+    "Variety": "Ratnagiri",
+    "Price": 172,
+    "AvgWeight": 200,
+    "PerBox": 33,
+    "Boxes": 100,
+    "Delivery": "5 Days"
+  },
+  {
+    "Seller": "Varun Traders",
+    "Product": "Mango",
+    "Variety": "Ratnagiri",
+    "Price": 167,
+    "AvgWeight": 200,
+    "PerBox": 10,
+    "Boxes": 200,
+    "Delivery": "1 Week"
+  },
+  {
+    "Seller": "A Trader",
+    "Product": "Blueberry",
+    "Variety": "Indore",
+    "Price": 134,
+    "AvgWeight": 150,
+    "PerBox": 30,
+    "Boxes": 100,
+    "Delivery": "10 Days"
+  },
+  {
+    "Seller": "B Trader",
+    "Product": "Pomegranate",
+    "Variety": "Kashmir",
+    "Price": 174,
+    "AvgWeight": 1000,
+    "PerBox": 24,
+    "Boxes": 200,
+    "Delivery": "5 Days"
+  },
+  {
+    "Seller": "Abi Fruits",
+    "Product": "Plum",
+    "Variety": "Indore",
+    "Price": 137,
+    "AvgWeight": 250,
+    "PerBox": 20,
+    "Boxes": 200,
+    "Delivery": "1 Week"
+  },
+  {
+    "Seller": "Akash Commodities",
+    "Product": "Banana",
+    "Variety": "Ooty",
+    "Price": 84,
+    "AvgWeight": 100,
+    "PerBox": 50,
+    "Boxes": 50,
+    "Delivery": "2 Week"
+  },
+  {
+    "Seller": "Varun Traders",
+    "Product": "Raspberry",
+    "Variety": "Ratnagiri",
+    "Price": 90,
+    "AvgWeight": 10,
+    "PerBox": 20,
+    "Boxes": 80,
+    "Delivery": "1 Mon"
+  },
+  {
+    "Seller": "A Trader",
+    "Product": "Mandarin",
+    "Variety": "Indore",
+    "Price": 136,
+    "AvgWeight": 150,
+    "PerBox": 30,
+    "Boxes": 70,
+    "Delivery": "10 Days"
+  },
+  {
+    "Seller": "B Trader",
+    "Product": "Jackfruit",
+    "Variety": "Kashmir",
+    "Price": 144,
+    "AvgWeight": 1000,
+    "PerBox": 20,
+    "Boxes": 100,
+    "Delivery": "5 Days"
+  },
+  {
+    "Seller": "Abi Fruits",
+    "Product": "Papaya",
+    "Variety": "Ratnagiri",
+    "Price": 110,
+    "AvgWeight": 250,
+    "PerBox": 50,
+    "Boxes": 200,
+    "Delivery": "1 Week"
+  },
+  {
+    "Seller": "Akash Commodities",
+    "Product": "Kiwi",
+    "Variety": "Ooty",
+    "Price": 143,
+    "AvgWeight": 150,
+    "PerBox": 20,
+    "Boxes": 200,
+    "Delivery": "2 Week"
+  },
+  {
+    "Seller": "Abi Fruits",
+    "Product": "Pineapple",
+    "Variety": "Kashmir",
+    "Price": 148,
+    "AvgWeight": 1000,
+    "PerBox": 50,
+    "Boxes": 50,
+    "Delivery": "1 Mon"
+  },
+  {
+    "Seller": "Abi Fruits",
+    "Product": "Lime",
+    "Variety": "Ratnagiri",
+    "Price": 100,
+    "AvgWeight": 150,
+    "PerBox": 20,
+    "Boxes": 80,
+    "Delivery": "3 Days"
+  },
+  {
+    "Seller": "Varun Traders",
+    "Product": "Lemon",
+    "Variety": "Kashmir",
+    "Price": 83,
+    "AvgWeight": 1000,
+    "PerBox": 30,
+    "Boxes": 100,
+    "Delivery": "10 Days"
+  },
+  {
+    "Seller": "Varun Traders",
+    "Product": "Apricot",
+    "Variety": "Ratnagiri",
+    "Price": 151,
+    "AvgWeight": 250,
+    "PerBox": 35,
+    "Boxes": 200,
+    "Delivery": "10 Days"
+  },
+  {
+    "Seller": "Abi Fruits",
+    "Product": "Grapefruit",
+    "Variety": "Ratnagiri",
+    "Price": 170,
+    "AvgWeight": 100,
+    "PerBox": 33,
+    "Boxes": 200,
+    "Delivery": "5 Days"
+  },
+  {
+    "Seller": "Akash Commodities",
+    "Product": "Melon",
+    "Variety": "Kashmir",
+    "Price": 111,
+    "AvgWeight": 10,
+    "PerBox": 10,
+    "Boxes": 50,
+    "Delivery": "1 Week"
+  },
+  {
+    "Seller": "Varun Traders",
+    "Product": "Coconut",
+    "Variety": "Ratnagiri",
+    "Price": 103,
+    "AvgWeight": 20,
+    "PerBox": 30,
+    "Boxes": 80,
+    "Delivery": "2 Week"
+  },
+  {
+    "Seller": "Varun Traders",
+    "Product": "Avocado",
+    "Variety": "Indore",
+    "Price": 173,
+    "AvgWeight": 200,
+    "PerBox": 24,
+    "Boxes": 70,
+    "Delivery": "1 Mon"
+  },
+  {
+    "Seller": "Varun Traders",
+    "Product": "Peach",
+    "Variety": "Indore",
+    "Price": 98,
+    "AvgWeight": 200,
+    "PerBox": 10,
+    "Boxes": 500,
+    "Delivery": "3 Days"
+  }
+]
