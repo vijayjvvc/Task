@@ -1,16 +1,24 @@
 # task
 
-A new Flutter project.
+A new Flutter Task.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features:
+● List of products for sale
+● Below the search bar there are images of products with horizontal scroll.
+● Search feature that searches based on name fields
+● Sort feature based on name and price
+● A chat UI which posts dummy messages 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Data source:
+ -converting data from json file inside the assets
+ 
+## A few resources to link to build & and used in this Flutter project:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Lab: Images and json file link.](https://drive.google.com/drive/folders/1xni8dS0ReFJZMEgNaF1JJ_Jwg6JMhmbI?usp=sharing)
+
+## Demo video
+
